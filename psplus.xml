@@ -1,123 +1,123 @@
 <?xml version="1.0"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/%D1%84%D0%B8%D1%82%D0%B8%D1%80/%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA/%D0%BF%D0%B71/psplus.xsd">
-	<Игра id="1">
-		<Название>Цифровое издание «UNCHARTED™ 4: Путь вора»</Название>
-		<Цена>649.00 UAH</Цена>
-		<Версия>Полная версия</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>Бесплатно</Бесплатно_v.1>
-			<Бесплатно_v.2>None</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="2">
-		<Название>DiRT Rally 2.0</Название>
-		<Цена>1 349.00 UAH</Цена>
-		<Версия>Игра PSN</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>Бесплатно</Бесплатно_v.1>
-			<Бесплатно_v.2>None</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="3">
-		<Название>PlayStation®Plus: подписка на 12 месяцев</Название>
-		<Цена>1 849.00 UAH</Цена>
-		<Версия>Подписка</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>None</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="4">
-		<Название>PlayStation®Plus: подписка на 3 месяца</Название>
-		<Цена>769.00 UAH</Цена>
-		<Версия>Подписка</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>None</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="5">
-		<Название>FN: набор для PlayStation®Plus</Название>
-		<Цена>None</Цена>
-		<Версия>Дополнение</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>Бесплатно</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="6">
-		<Название>Call of Duty®: Warzone - боевой набор (третий сезон)</Название>
-		<Цена>None</Цена>
-		<Версия>Дополнение</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>Бесплатно</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="7">
-		<Название>Apex Legends™: игровой набор PlayStation®Plus</Название>
-		<Цена>None</Цена>
-		<Версия>Дополнение</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>Бесплатно</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="8">
-		<Название>Набор SMITE 'Мулан Plus'</Название>
-		<Цена>None</Цена>
-		<Версия>Комплект</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>Бесплатно</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="9">
-		<Название>Тема Беарнарда с динамическим изменением погоды</Название>
-		<Цена>None</Цена>
-		<Версия>Тема</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>Бесплатно</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="10">
-		<Название>Тема к STREET FIGHTER™ V</Название>
-		<Цена>None</Цена>
-		<Версия>Статическая тема</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>Бесплатно</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="11">
-		<Название>Тема к Grim Fandango</Название>
-		<Цена>None</Цена>
-		<Версия>Статическая тема</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>Бесплатно</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
-	<Игра id="12">
-		<Название>Эксклюзивная тема PlayStation®Plus - Gauntlet: Slayer Edition</Название>
-		<Цена>None</Цена>
-		<Версия>Статическая тема</Версия>
-		<Платформа>PS4</Платформа>
-		<Бесплатно>
-			<Бесплатно_v.1>None</Бесплатно_v.1>
-			<Бесплатно_v.2>Бесплатно</Бесплатно_v.2>
-		</Бесплатно>
-	</Игра>
+	<Game id="1">
+		<Name>Цифровое издание «UNCHARTED™ 4: Путь вора»</Name>
+		<Price>649.00 UAH</Price>
+		<Version>Полная Version</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>Free</Free_v.1>
+			<Free_v.2>None</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="2">
+		<Name>DiRT Rally 2.0</Name>
+		<Price>1 349.00 UAH</Price>
+		<Version>Game PSN</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>Free</Free_v.1>
+			<Free_v.2>None</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="3">
+		<Name>PlayStation®Plus: подписка на 12 месяцев</Name>
+		<Price>1 849.00 UAH</Price>
+		<Version>Подписка</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>None</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="4">
+		<Name>PlayStation®Plus: подписка на 3 месяца</Name>
+		<Price>769.00 UAH</Price>
+		<Version>Подписка</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>None</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="5">
+		<Name>FN: набор для PlayStation®Plus</Name>
+		<Price>None</Price>
+		<Version>Дополнение</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>Free</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="6">
+		<Name>Call of Duty®: Warzone - боевой набор (третий сезон)</Name>
+		<Price>None</Price>
+		<Version>Дополнение</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>Free</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="7">
+		<Name>Apex Legends™: игровой набор PlayStation®Plus</Name>
+		<Price>None</Price>
+		<Version>Дополнение</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>Free</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="8">
+		<Name>Набор SMITE 'Мулан Plus'</Name>
+		<Price>None</Price>
+		<Version>Комплект</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>Free</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="9">
+		<Name>Тема Беарнарда с динамическим изменением погоды</Name>
+		<Price>None</Price>
+		<Version>Тема</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>Free</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="10">
+		<Name>Тема к STREET FIGHTER™ V</Name>
+		<Price>None</Price>
+		<Version>Статическая тема</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>Free</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="11">
+		<Name>Тема к Grim Fandango</Name>
+		<Price>None</Price>
+		<Version>Статическая тема</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>Free</Free_v.2>
+		</Free>
+	</Game>
+	<Game id="12">
+		<Name>Эксклюзивная тема PlayStation®Plus - Gauntlet: Slayer Edition</Name>
+		<Price>None</Price>
+		<Version>Статическая тема</Version>
+		<Platform>PS4</Platform>
+		<Free>
+			<Free_v.1>None</Free_v.1>
+			<Free_v.2>Free</Free_v.2>
+		</Free>
+	</Game>
 </root>
